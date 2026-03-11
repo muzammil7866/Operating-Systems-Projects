@@ -15,7 +15,6 @@ This repository is a professional systems-focused collection that strengthens op
 ## Overview
 
 The repository focuses on process behavior, synchronization, resource control, and low-level system reasoning relevant to robust software engineering.
-It also includes selected implementations tied to BS AI coursework in core computing and systems fundamentals.
 
 ## Business Goals
 
