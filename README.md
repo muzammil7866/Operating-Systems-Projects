@@ -1,6 +1,6 @@
 # Operating Systems Projects 🧠
 
-This repository is a professional systems-focused collection built to strengthen operating systems fundamentals and implementation-level reasoning.
+This repository is a professional systems-focused collection built to strengthen operating systems fundamentals and implementation-level reasoning through hands-on projects, core computing practice, and selected BS AI coursework context.
 
 ## 🎯 Purpose
 
