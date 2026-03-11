@@ -1,42 +1,56 @@
-# Operating Systems Projects 🧠
+# Operating Systems Projects
 
-This repository is a professional systems-focused collection built to strengthen operating systems fundamentals and implementation-level reasoning through hands-on projects, core computing practice, and selected BS AI coursework context.
+This repository is a professional systems-focused collection that strengthens operating systems fundamentals through hands-on implementation, practical computing exercises, and selected BS AI coursework context.
 
-## 🎯 Purpose
+## Table of Contents
 
-The aim is to develop practical understanding of process management, synchronization, resource control, and system behavior under real constraints.
+- [Overview](#overview)
+- [Business Goals](#business-goals)
+- [Technology Stack](#technology-stack)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Repository Guidelines](#repository-guidelines)
+- [Code Guidelines](#code-guidelines)
+- [Future Direction](#future-direction)
 
-## 💼 Business Goals
+## Overview
 
-- Improve software reliability through deeper systems-level understanding.
-- Support performance-aware design decisions for backend and infrastructure software.
-- Build strong foundations for scalable, secure, and efficient computing systems.
-- Enable architecture decisions grounded in low-level execution realities.
+The repository focuses on process behavior, synchronization, resource control, and low-level system reasoning relevant to robust software engineering.
 
-## 🧰 Tech Stack
+## Business Goals
+
+- Improve software reliability with stronger systems understanding.
+- Support performance-aware technical decisions for backend infrastructure.
+- Build practical foundations for secure and efficient computing designs.
+- Strengthen engineering judgment for concurrency and resource-sensitive workloads.
+
+## Technology Stack
 
 - Languages: C, C++ (project dependent)
-- Concepts: Concurrency, synchronization, scheduling, memory and resource management
+- Core topics: concurrency, scheduling, synchronization, memory/resource management
 - Tooling: GCC/G++, compiler toolchains, VS Code/Visual Studio
-- Workflow: Git/GitHub with implementation-first experimentation
+- Workflow: Git/GitHub and implementation-first iteration
 
-## 🧠 Engineering Areas
+## How to Use This Repository
 
-- Critical section and synchronization problems
-- Thread/process coordination strategies
-- Foundational OS behavior and execution models
-- Concept-to-implementation system exercises
+1. Select a project folder based on the OS concept you want to study.
+2. Review local instructions or compiler requirements.
+3. Build with the expected toolchain for that project.
+4. Run and validate behavior against expected synchronization/scheduling outcomes.
 
-## 🚀 Future Direction
+## Repository Guidelines
 
-This repository is intentionally open for future growth. Planned and potential directions include:
-- Advanced scheduling and deadlock handling simulations
-- Memory management and paging strategy experiments
-- File system and I/O abstraction implementations
-- Systems performance analysis and optimization studies
+- Keep projects concept-focused and implementation-oriented.
+- Document assumptions, execution steps, and expected behavior.
+- Keep each project runnable with minimal external dependencies.
+- Add concise notes for algorithm or concurrency design choices.
 
-## 📌 Navigation
+## Code Guidelines
 
-- Each folder contains focused implementations around one or more OS concepts.
-- Build and run instructions may vary across projects.
-- Additional systems projects will continue to be added as the repository evolves.
+- Make thread/process coordination logic explicit and readable.
+- Prefer deterministic test scenarios where possible.
+- Avoid hidden shared state and document synchronization primitives used.
+- Keep error handling clear for system calls and boundary conditions.
+
+## Future Direction
+
+This repository will continue to grow with deeper scheduling simulations, memory strategy work, file-system concepts, and performance-focused systems experiments.
