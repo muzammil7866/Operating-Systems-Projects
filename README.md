@@ -16,6 +16,10 @@ This repository is a professional systems-focused collection that strengthens op
 
 The repository focuses on process behavior, synchronization, resource control, and low-level system reasoning relevant to robust software engineering.
 
+## BS AI Coursework Context
+
+Relevant coursework influence in this repository includes systems programming foundations, concurrency concepts, and performance-aware computing principles.
+
 ## Business Goals
 
 - Improve software reliability with stronger systems understanding.
