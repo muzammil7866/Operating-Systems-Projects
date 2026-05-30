@@ -23,11 +23,19 @@ The repository focuses on process behavior, synchronization, resource control, a
 - Build practical foundations for secure and efficient computing designs.
 - Strengthen engineering judgment for concurrency and resource-sensitive workloads.
 
+## Projects
+
+| Project | Language | OS Concepts |
+|---|---|---|
+| [Critical Section Problem](Critical%20Section%20Problem/) | C | Race conditions, mutex (`pthread_mutex_t`) |
+| [Peterson's Solution for Synchronization and Concurrency](Petersons%20Solution%20for%20Synchronization%20and%20Concurrency/) | Python | Mutual exclusion, Peterson's algorithm |
+| [Concurrent Banking System with OS Scheduling](Concurrent%20Banking%20System%20with%20OS%20Scheduling/) | Python | Mutex, semaphore, threads, IPC, Round Robin scheduling |
+
 ## Technology Stack
 
-- Languages: C, C++ (project dependent)
-- Core topics: concurrency, scheduling, synchronization, memory/resource management
-- Tooling: GCC/G++, compiler toolchains, VS Code/Visual Studio
+- Languages: C, Python (project dependent)
+- Core topics: concurrency, scheduling, synchronization, IPC, memory/resource management
+- Tooling: GCC/G++, Python 3.8+, VS Code/Visual Studio
 - Workflow: Git/GitHub and implementation-first iteration
 
 ## How to Use This Repository
